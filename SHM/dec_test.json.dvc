@@ -1,0 +1,4 @@
+outs:
+- md5: f0f0ca902352526b29170d74679757d0
+  size: 13494
+  path: dec_test.json
